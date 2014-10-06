@@ -28,7 +28,8 @@ Details of the MF-CG-TOID model and simulation algorithms appear in our paper:
 
 [1] T. K. Haxton, R. V. Mannige, R. N. Zuckermann, and S. Whitelam, "Modeling
 sequence-specific polymers using anisotropic coarse-grained sites allows
-quantitative comparison with experiment."
+quantitative comparison with experiment," submitted (available online at 
+arxiv.org/abs/1409.8644).
 
 AUTHORS, CITATION, AND CONTACT INFORMATION
 -------------------------------------------
